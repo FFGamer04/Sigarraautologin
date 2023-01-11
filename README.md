@@ -9,10 +9,10 @@ Script to automate login to [SIGARRA](https://sigarra.up.pt/up/pt/web_page.inici
 2. Download the [script]
 
 3. Change the script:<br>
-  -Change `^l` to a [Hotkey](https://www.autohotkey.com/docs/v2/Hotkeys.htm#Intro) of your liking;<br>
+  -Change `^l` For a [Hotkey](https://www.autohotkey.com/docs/v2/Hotkeys.htm#Intro) of your liking;<br>
   -Change `FEUP - Faculdade de Engenharia da Universidade do Porto - Vivaldi` For your college and browser;<br>
   -Change `20XXXXXXX` For your UP number;<br>
-  -Trocar `Aminhapass` For your password;<br>
+  -Change `Mypass` For your password;<br>
 
 4.Run the script
 
