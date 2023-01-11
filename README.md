@@ -1,6 +1,6 @@
 # Sigarraautologin
 
-Script to automate login to [SIGARRA](https://sigarra.up.pt/up/pt/web_page.inicial)
+Script to automate login to [SIGARRA](https://sigarra.up.pt/up/pt/web_page.inicial). Because I'm lazy.
 
 # Install
 
