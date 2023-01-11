@@ -6,7 +6,7 @@
 		Send "20XXXXXXX"																;User
 		Click "1634 170"																;Password box position
 		Sleep "100"
-		Send "My pass"																;Password
+		Send "My pass"																	;Password
 		Click "1800 170"																;Login button Position
 	}
 
