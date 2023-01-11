@@ -6,7 +6,7 @@ Script to automate login to [SIGARRA](https://sigarra.up.pt/up/pt/web_page.inici
 
 1. Download [AutoHotkey](https://www.autohotkey.com), `v2.0`
 
-2. Download the [script](https://github.com/FFGamer04/Sigarraautologin/blob/main/Sigarraautologin.ahk)
+2. Download the [script](https://github.com/FFGamer04/Sigarraautologin/blob/main/Sigarraautologin.ahk) (`Raw->Right Click->Save as`)
 
 3. Change the script:<br>
   -Change `^l` For a [Hotkey](https://www.autohotkey.com/docs/v2/Hotkeys.htm#Intro) of your liking;<br>
